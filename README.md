@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @a-hopson617
-- 👀 I’m interested in Front-End Software Development
-- 🌱 I’m currently learning HTML/CSS
+- 👀 I’m interested in Back-End Software Development
+- 🌱 I’m currently learning HTML/CSS/Python
 - 💞️ I’m looking to collaborate on group collabs.
 - 📫 How to reach me alicia.hopson@gmail.com
 
